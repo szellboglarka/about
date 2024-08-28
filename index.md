@@ -1,3 +1,10 @@
+# Boglarka Szell
+###### Valencia, Spain
+
+#### Languages
+
+#### Soft skills / introduction
+
 #### WORK EXPERIENCE 
 ###### MaibornWolff SL - 2022.05. – Present
 - Azure IoT Edge;
